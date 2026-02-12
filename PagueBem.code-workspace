@@ -1,0 +1,15 @@
+{
+  "folders": [
+    { "path": "." },
+    { "path": "../PagueBem-terraform/apigateway" },
+    { "path": "../PagueBem-terraform/dynamodb" },
+    { "path": "../PagueBem-terraform/lambda" }
+  ],
+  "settings": {
+    "files.exclude": {
+      "**/.git": true,
+      "**/.terraform": true,
+      "**/node_modules": true
+    }
+  }
+}
